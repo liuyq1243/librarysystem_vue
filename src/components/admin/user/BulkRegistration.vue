@@ -18,7 +18,7 @@
         </el-form-item>
         <el-form-item>
           <el-input type="text" v-model="loginForm.name"
-                    auto-complete="off" placeholder="真实姓名"></el-input>
+                    auto-complete="off" placeholder="角色"></el-input>
         </el-form-item>
         <el-form-item>
           <el-input type="text" v-model="loginForm.phone"
